@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.aditys.gdsc_adb_bustingieber"
+    namespace = "com.aditys.veekshalab1"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.aditys.gdsc_adb_bustingieber"
+        applicationId = "com.aditys.veekshalab1"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

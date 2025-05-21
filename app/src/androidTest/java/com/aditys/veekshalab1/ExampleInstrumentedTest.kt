@@ -1,4 +1,4 @@
-package com.aditys.gdsc_adb_bustingieber
+package com.aditys.veekshalab1
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

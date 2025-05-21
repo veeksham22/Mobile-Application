@@ -1,4 +1,4 @@
-package com.aditys.gdsc_adb_bustingieber
+package com.aditys.veekshalab1
 
 import android.os.Bundle
 import android.util.Log

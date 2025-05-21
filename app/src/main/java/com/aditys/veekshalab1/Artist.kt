@@ -1,4 +1,4 @@
-package com.aditys.gdsc_adb_bustingieber
+package com.aditys.veekshalab1
 
 data class Artist(
     val id: Int,
